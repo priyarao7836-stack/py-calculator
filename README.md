@@ -30,16 +30,16 @@ python calculator.py
 ## Screenshots
 
 ### Main Menu
-! [Main Menu] (Screenshots/main-menu.png)
+! [Main Menu](Screenshots/main-menu.png)
 
 ### Addition
-! [Addition] (Screenshots/addition.png)
+! [Addition](Screenshots/addition.png)
 
 ### Square Root
-! [Square Root] (Screenshots/square-root.png)
+! [Square Root](Screenshots/square-root.png)
 
 ### Error Handling
-! [Error Handling] (Screenshots/error-handling.png).
+! [Error Handling](Screenshots/error-handling.png).
 
 ## Author
 Priya Rao
