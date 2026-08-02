@@ -28,18 +28,7 @@ A menu-driven calculator built using Python.
 python calculator.py
 
 ## Screenshots
-
-### Main Menu
-! [Main Menu](Screenshots/main-menu.png)
-
-### Addition
-! [Addition](Screenshots/addition.png)
-
-### Square Root
-! [Square Root](Screenshots/square-root.png)
-
-### Error Handling
-! [Error Handling](Screenshots/error-handling.png).
+menu page
 
 ## Author
 Priya Rao
