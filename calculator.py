@@ -3,9 +3,8 @@ import math
 def calculator():
     while True:
         print("\n" + "=" * 40)
-        print("      PYTHON SCIENTIFIC CALCULATOR")
+        print("PYTHON SCIENTIFIC CALCULATOR")
         print("=" * 40)
-
         print("1. Addition")
         print("2. Subtraction")
         print("3. Multiplication")
@@ -110,5 +109,5 @@ def calculator():
 
         except Exception as e:
             print("Unexpected Error:", e)
-
+calculator ( )
 calculator()
