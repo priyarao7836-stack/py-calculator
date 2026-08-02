@@ -109,5 +109,4 @@ def calculator():
 
         except Exception as e:
             print("Unexpected Error:", e)
-calculator ( )
 calculator()
