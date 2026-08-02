@@ -28,7 +28,7 @@ A menu-driven calculator built using Python.
 python calculator.py
 
 ## Screenshots
-menu page
+menu page(sc.jpg)
 
 ## Author
 Priya Rao
